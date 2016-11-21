@@ -156,7 +156,6 @@ setup(
         'pypdf',
         'pyserial',
         'python-dateutil',
-        'python-ldap',  # optional
         'python-openid',
         'pytz',
         'pyusb >= 1.0.0b1',
